@@ -14,7 +14,9 @@
   z-index: 1000;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
-
+.non{
+  font-size: large;
+}
 .logo {
   height: 120px;
   width: 120px;
